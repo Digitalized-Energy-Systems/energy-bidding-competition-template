@@ -15,7 +15,7 @@ Method for
 - receiving auction results
 """
 URL = "http://localhost:8000"
-PARTICIPANT_ID = "PlaceholderA"
+PARTICIPANT_ID = "Admin123"
 
 
 class AgentTemplate:
