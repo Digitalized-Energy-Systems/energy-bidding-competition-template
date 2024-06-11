@@ -14,7 +14,7 @@ Method for
 - placing order
 - receiving auction results
 """
-URL = "http://localhost:8000"
+URL = "http://192.168.91.84:8000"
 PARTICIPANT_ID = "Admin123"
 
 
